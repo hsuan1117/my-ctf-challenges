@@ -8,6 +8,8 @@
 (經典 php://filter/convert.base64-encode/resource=)
 => 發現config.php => 統神搬火鍋 ...?
 
+* 原本想說能用傳統的 %00 來截斷include，結果是PHP7.4.19 
+* 原本想說include外部php，結果allow_include_url沒開
 ## SQLi
 後來花了很多時間在SQLi上，構建id的payload
 """sql
