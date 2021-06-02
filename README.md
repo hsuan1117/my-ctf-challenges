@@ -1,1 +1,1 @@
-# SecretNote
+# CTF Write-ups
